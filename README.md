@@ -1,11 +1,9 @@
 SKCalendar
 ==========
 
-Easy to Use
-
 How to Use:
 
-      final SKCalender skCalender = new SKCalender(MainActivity.this);
+      final SKCalender skCalender = new SKCalender(this);
       
       skCalender.setCallbacks(new Callbacks() {
       					
